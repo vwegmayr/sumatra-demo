@@ -1,0 +1,7 @@
+-e python
+-m main.py
+-A /home/vikweg/Dropbox/testproject/
+-d /home/vikweg/Dropbox/testproject/
+-c store-diff
+-s http://testuser:changeme@129.132.45.56:8080/records
+testproject
