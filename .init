@@ -1,7 +1,7 @@
--e python
+-e python2
 -m main.py
--A /home/vikweg/Dropbox/testproject/
--d /home/vikweg/Dropbox/testproject/
+-A ~/Dropbox/ise-squad/
+-d ~/Dropbox/ise-squad/
 -c store-diff
--s http://testuser:changeme@129.132.45.56:8080/records
+-s http://testuser:changeme@192.33.91.83:8080/records
 testproject
