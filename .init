@@ -3,5 +3,5 @@
 -A full/path/to/Dropbox/ise-squad/
 -d full/path/to/Dropbox/ise-squad/
 -c store-diff
--s http://testuser:changeme@192.33.91.83:8080/records
-testproject
+-s http://username:password@192.33.91.83:8080/records
+name_of_your_project
