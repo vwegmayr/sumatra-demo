@@ -1,7 +1,7 @@
 -e python2
 -m main.py
--A ~/Dropbox/ise-squad/
--d ~/Dropbox/ise-squad/
+-A full/path/to/Dropbox/ise-squad/
+-d full/path/to/Dropbox/ise-squad/
 -c store-diff
 -s http://testuser:changeme@192.33.91.83:8080/records
 testproject
