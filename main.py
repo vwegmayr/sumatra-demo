@@ -1,7 +1,7 @@
 import numpy as np 
 import ConfigParser
 
-PATH = "/full/path/to/Dropbox/ise-squad/"
+PATH = "./"
 
 # Read the config file
 config = ConfigParser.ConfigParser()
