@@ -1,7 +1,7 @@
 import numpy as np 
 import configparser
 
-PATH = "./"
+PATH = "output/"
 
 # Read the config file
 config = configparser.ConfigParser()
