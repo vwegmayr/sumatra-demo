@@ -1,10 +1,10 @@
 import numpy as np 
-import ConfigParser
+import configparser
 
 PATH = "./"
 
 # Read the config file
-config = ConfigParser.ConfigParser()
+config = configparser.ConfigParser()
 config.read(".config")
 
 # Produce some data
