@@ -1,7 +1,6 @@
 # sumatra demo
 
-.. _miniconda: https://conda.io/docs/install/quick.html#linux-miniconda-install
-First you need to install miniconda_ on your system.
+First you need to install [miniconda](https://conda.io/docs/install/quick.html#linux-miniconda-install) on your system.
 
 ## Getting started
 Having installed miniconda, setup and source the environment _sumatra-demo_ with
