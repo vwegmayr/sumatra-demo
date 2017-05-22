@@ -23,3 +23,5 @@ Note that the output data storage only works if you have access to the ise-squad
 Finally, run a demo experiment:
 
 `smt run .config`
+
+You can go to the [web interface](http://192.33.91.83:9183/demo/) and check out the record.
