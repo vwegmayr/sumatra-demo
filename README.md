@@ -15,7 +15,7 @@ Enter sumatra project: demo
 Enter sumatra username: demo
 Enter sumatra password: demo
 Enter archive path: /full/path/to/Dropbox/ise-squad
-Enter path where Sumatra should look for output: .
+Enter path where Sumatra should look for output: output
 ```
 
 Note that the output data storage only works if you have access to the ise-squad Dropbox folder.
